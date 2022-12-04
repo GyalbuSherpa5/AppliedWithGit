@@ -80,6 +80,7 @@ customer id : {cusDetail[k][0]}
 customer name : {cusDetail[k][1]}
 total price : {total[k]}
 discount amt : {disAmount[k]}
+
 """)
 
 
